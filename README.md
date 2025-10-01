@@ -1,4 +1,5 @@
-                                                      🧪 Generador de Dataset con Errores para Pruebas de Limpieza de Datos 💾
+
+🧪 Generador de Dataset con Errores para Pruebas de Limpieza de Datos 💾
 
 ¿Estás practicando procesamiento y limpieza de datos?
 Este script en Python te permite generar un dataset de ventas de zapatillas con errores intencionales para poner a prueba tus habilidades de análisis y limpieza de datos 🧹💻
